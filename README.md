@@ -1,3 +1,3 @@
-# VIm configuration
+# Vim configuration
 
 My personal vim configuration.
